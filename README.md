@@ -24,7 +24,6 @@ This assignment involved solving **42 SQL-based problems** simulating real-world
 - **SQL Server 2022 Express / Developer Edition**
 - **SQL Server Management Studio (SSMS)**
 - **AdventureWorks2022 OLTP Sample Database**
-- Language: **T-SQL**
 
 > ✔️ All queries are designed and tested using the default schema structure of the **AdventureWorks2022** database available from Microsoft's official GitHub repository.
 
