@@ -30,7 +30,7 @@ This assignment involved solving **42 SQL-based problems** simulating real-world
 ---
 
 ## 🗂️ Repository Structure
-
+```plaintext
 📁 SQL Queries/
 ├── Q01_solution.sql
 ├── Q02_solution.sql
